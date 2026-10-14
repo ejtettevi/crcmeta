@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "crcmeta: study-adjusted meta-analysis of multicohort shotgun metagenomes"
+type: software
+authors:
+  - family-names: Tetteh
+    given-names: E.
+    # TODO: add remaining authors and ORCIDs before release
+repository-code: "https://github.com/ejtettevi/crcmeta"
+url: "https://github.com/ejtettevi/crcmeta"
+abstract: >-
+  Reproducible R workflow for study-adjusted random-effects meta-analysis
+  of multicohort colorectal cancer shotgun metagenomes, with leave-one-study-out
+  stability checks and cross-cohort effect concordance diagnostics.
+keywords:
+  - microbiome
+  - metagenomics
+  - meta-analysis
+  - colorectal cancer
+  - bioinformatics
+  - reproducible-research
+license: MIT
+version: 1.0.0
+date-released: "2026-10-14"
