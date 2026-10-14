@@ -1,0 +1,30 @@
+# Manuscript / submission materials (not part of the open-source release)
+manuscript/
+
+# macOS
+.DS_Store
+
+# Regenerable inputs (export via analysis/02_fetch_profiles.R from curatedMetagenomicData)
+/data/profiles/
+/data/raw/
+/data/metadata/
+
+# Run logs
+/logs/
+
+# Legacy figures superseded by analysis/08_figures_publication.R → results/figures/
+/figures/
+
+# R / Python
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.venv/
+
+# Editor / OS noise
+*~
+*.swp
+.idea/
+.vscode/

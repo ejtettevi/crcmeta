@@ -1,0 +1,12 @@
+study	n_samples	n_CRC	n_Control	n_Adenoma	n_youngCRC	n_oldCRC	n_CRC_age_missing	country
+FengQ_2015	154	46	61	47	4	42	0	AUT
+GuptaA_2019	60	30	30	0	4	26	0	IND
+HanniganGD_2017	81	27	28	26	6	21	0	USA, CAN
+ThomasAM_2018a	80	29	24	27	0	29	0	ITA
+ThomasAM_2018b	60	32	28	0	4	28	0	ITA
+ThomasAM_2019_c	80	40	40	0	10	30	0	JPN
+VogtmannE_2016	110	52	52	0	8	44	0	USA
+WirbelJ_2018	125	60	65	0	7	53	0	DEU
+YachidaS_2019	616	258	251	67	32	226	0	JPN
+YuJ_2015	128	74	54	0	4	70	0	CHN
+ZellerG_2014	156	53	61	42	3	50	0	FRA

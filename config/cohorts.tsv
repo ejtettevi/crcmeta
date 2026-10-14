@@ -1,0 +1,12 @@
+study	accession	repository	region	design	notes
+Zeller_2014	ERP005534	ENA	France	CRC/adenoma/control	Classic cross-cohort cohort
+Feng_2015	PRJEB7774	ENA	Austria	adenoma-carcinoma sequence	Colorectal adenoma-carcinoma
+Vogtmann_2016	PRJEB12449	ENA	USA	CRC/control	WGS reproducibility study
+Yu_2017	PRJEB10878	ENA	China	CRC/control	targeted biomarker study
+Yachida_2019	DRA006684	ENA/DDBJ	Japan	CRC/adenoma/control	Largest single Asian cohort
+Thomas_2019	SRP136711	SRA	Italy	CRC/control	cross-cohort + choline
+Wirbel_2019	PRJEB27928	ENA	Germany	CRC/control	global signatures
+Gupta_2019	PRJNA531273	SRA	India	CRC/control	Flavonifractor plautii
+ObonSantacana_2022		ENA	Spain	CRC/control	COLSCREEN (accession to be confirmed)
+Fudan_yCRC	PRJNA763023	SRA	China	young/old CRC/control	SOURCE of current manuscript; 200 shotgun runs (50/group), age cutoff 50
+COLOBIOME	PRJEB72524	ENA	Czechia	adenoma-carcinoma	ONCOBIOME
